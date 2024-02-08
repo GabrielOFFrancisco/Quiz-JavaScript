@@ -116,7 +116,7 @@ for (const item of questions) {
       }
 
       showTotal.textContent = corrects.size + ' de ' + totalQuestions;
-    };
+     };
 
     quizItem.querySelector('dl').appendChild(dt);
   }
