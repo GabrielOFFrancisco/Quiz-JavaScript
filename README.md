@@ -2,7 +2,8 @@
 
 ## Sobre o projeto
 Um quiz interativo para testar seus conhecimentos em programação, com perguntas sobre conceitos fundamentais de JavaScript. 
-Responda às perguntas selecionando a opção correta e veja quantas respostas você acertou no final do quiz.
+Responda às perguntas selecionando a opção correta e veja quantas respostas você acertou no final do quiz. Confira o projeto
+aqui: https://gabrieloffrancisco.github.io/Quiz-JavaScript/
 
 ## Tecnologias
 * HTML
